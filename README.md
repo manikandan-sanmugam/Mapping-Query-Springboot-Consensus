@@ -1,1 +1,1 @@
-# Mapping-Query-Springboot-Consensus
+# mapping-using-query-in-springboot
